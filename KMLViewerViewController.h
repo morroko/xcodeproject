@@ -10,5 +10,9 @@
 }
 // hello here is some changes
 //there i am inserting some code
+<<<<<<< HEAD
+=======
+//this code is for second branch
+>>>>>>> secondBranch
 @end
 
